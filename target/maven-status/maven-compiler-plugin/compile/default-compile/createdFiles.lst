@@ -1,0 +1,17 @@
+com\mycompany\foodi\entities\Category.class
+com\mycompany\foodi\servlet\RegisterServlet.class
+com\mycompany\foodi\helper\Helper.class
+com\mycompany\foodi\helper\ConnectionProvider.class
+com\mycompany\foodi\servlet\BLOB.class
+com\mycompany\foodi\helper\FactoryProvider.class
+com\mycompany\foodi\entities\User.class
+com\mycompany\foodi\helper\getName$request.class
+com\mycompany\foodi\dao\PostDao.class
+com\mycompany\foodi\servlet\ImageUpload.class
+com\mycompany\foodi\servlet\loginServlet.class
+com\mycompany\foodi\servlet\logout.class
+com\mycompany\foodi\dao\UserDao.class
+com\mycompany\foodi\helper\getName.class
+com\mycompany\foodi\servlet\controllerBLOB.class
+com\mycompany\foodi\servlet\ProductOperationServlet_01.class
+com\mycompany\foodi\entities\Product.class
